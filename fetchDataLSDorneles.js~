@@ -69,7 +69,7 @@
 
     window.chart1 = new Highcharts.StockChart($.extend(chartOptions, {
       title: {
-        text: 'UFSM, prédio 13, interno, sala 1105-D'
+        text: 'UFSM, prédio 13, sala 1105-D'
       },
       chart: {
         renderTo: 'grafico-sala',
