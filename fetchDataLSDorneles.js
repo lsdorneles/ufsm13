@@ -109,7 +109,7 @@
 
       $.ajax({
 
-        url: "https://dl.dropboxusercontent.com/s/5spn07kucf12rbv/UTxt_13-1105-D.txt"
+        url: "https://dl.dropboxusercontent.com/s/jijx4dkcks3d1i9/UTxt_13-1105-D_naura.txt"
 
       }).done(function(data) {
 
